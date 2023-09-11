@@ -1,0 +1,10 @@
+print(ord('A'))
+print(ord('5'))
+print(ord('$'))
+int_num=100
+float_num=1.01
+ans=int_num+float_num
+print(ans)
+print(type(int_num))
+print(type(float_num))
+print(type(ans))
