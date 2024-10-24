@@ -1,1 +1,1 @@
-basic coding for python
+competative  coding for python
